@@ -1,0 +1,1 @@
+{"description":"Minimal demo web service for Abasthan","engines":{"node":">=18"},"main":"server.js","name":"liangchen-demo-service","scripts":{"build":"echo no build step needed","start":"node server.js"},"version":"1.0.0"}
